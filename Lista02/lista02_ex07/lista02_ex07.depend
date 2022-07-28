@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658522627 source:c:\users\guilh\desktop\guilherme\biopark_connect\algortimos_bpk\lista02\lista02_ex07\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
