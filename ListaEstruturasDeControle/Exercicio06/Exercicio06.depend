@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660163602 source:c:\users\guilherme\desktop\studing\biopark_connect\algortimos_bpk\listaestruturasdecontrole\exercicio06\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
