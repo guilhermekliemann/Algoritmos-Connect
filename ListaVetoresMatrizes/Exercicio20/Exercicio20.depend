@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1660845057 source:c:\users\guilherme\desktop\studing\biopark connect\algortimos_bpk\listavetoresmatrizes\exercicio20\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+

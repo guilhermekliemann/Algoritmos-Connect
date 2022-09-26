@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1661976158 source:c:\users\guilherme\desktop\studing\biopark connect\algortimos_bpk\listastructponteiro\exercicio01\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
